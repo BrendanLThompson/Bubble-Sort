@@ -5,5 +5,5 @@ Outputs: Array size,
          The Sample Data,
          Minimum and Maximum of the Array,
          Average,
-         Each line shows 1 number being swapped,
+         Each line showing 1 number being swapped,
          Median.
