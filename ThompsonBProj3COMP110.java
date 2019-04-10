@@ -1,9 +1,8 @@
 //Brendan Thompson
-//Project 3: Bubble Sort.
-//Due: March 14, 2019 5:30 p.m
+//Bubble Sort.
 import java.util.Random;
 import java.util.Arrays;
-public class ThompsonBProj3COMP110
+public class ThompsonBProj3
 {
    public static void main(String [] args)
    {
